@@ -12,16 +12,16 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="images/dn.jpeg" media="(min-width: 600px)">
+              <img src="images/dn.jpeg" alt="profile">
             </picture>
             <div class="content">
-              <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+              <p class="detail">My Coding Profile</p>
+                <h1>Arnav Kanekar</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                I have been coding during this time in Computer Science Principles.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/MuffinMan1287" class="button">Link to Github</a>
             </div>
           </article>
         </main>
